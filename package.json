@@ -2,7 +2,7 @@
   "name": "meta_bnb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TheTechGoddess.github.io/HNGlinktree/metabnb/",
+  "homepage": "https://TheTechGoddess.github.io/meta_bnb/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
