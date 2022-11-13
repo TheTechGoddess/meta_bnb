@@ -32,8 +32,8 @@ const Nfts = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft2} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft2} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
@@ -48,8 +48,8 @@ const Nfts = () => {
                
             </div>
             
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft3} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft3} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
@@ -64,8 +64,8 @@ const Nfts = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft4} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft4} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
@@ -80,8 +80,8 @@ const Nfts = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft5} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft5} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
@@ -96,8 +96,8 @@ const Nfts = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft6} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft6} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
@@ -112,8 +112,8 @@ const Nfts = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft7} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft7} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
@@ -128,8 +128,8 @@ const Nfts = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft8} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft8} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
