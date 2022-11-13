@@ -16,8 +16,8 @@ const Nfts = () => {
             <h1 className='text-black text-2xl'>Inspiration for your next adventure</h1>
         </div>
         <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 text-center'>
-            <div className='border border-1 border-gray-400 w-[360px] md:w-[280px] h-[450px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
-                <img src={nft1} alt="" className='w-[330px] md:w-[250px] text-center flex self-center' />
+            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+                <img src={nft1} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
                         <p className='md:text-xs py-1 self-start'>Desert king</p>
