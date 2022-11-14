@@ -8,6 +8,7 @@ import {FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa'
 const Contact = () => {
   return (
     <div className='flex w-full py-10 justify-between px-4 md:px-10 lg:px-24 bg-black text-[#FFFFFF] content-center'>
+        <div className='flex sm:flex-col'>
         <div className=''>
             <div className='flex mb-20'>
                 <img src={house2} alt="" className='w-8' />
@@ -30,6 +31,8 @@ const Contact = () => {
             <p className='text-sm py-1'>Landlords</p>
             <p className='text-sm py-1'>Discord</p>
         </div>
+        </div>
+        <div className='flex sm:flex-col'>
         <div>
             <p className='font-bold pb-4'>Places</p>
             <p className='text-sm py-1'>Castle</p>
@@ -43,6 +46,7 @@ const Contact = () => {
             <p className='text-sm py-1'>Creators</p>
             <p className='text-sm py-1'>Career</p>
             <p className='text-sm py-1'>Contact us</p>
+        </div>
         </div>
     </div>
   )
