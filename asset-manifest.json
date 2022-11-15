@@ -1,24 +1,32 @@
 {
   "files": {
     "main.css": "/meta_bnb/static/css/main.92f6f788.css",
-    "main.js": "/meta_bnb/static/js/main.ea8c05c3.js",
+    "main.js": "/meta_bnb/static/js/main.406fe642.js",
     "static/media/3boxes.png": "/meta_bnb/static/media/3boxes.9797573dda862feed59d.png",
     "static/media/Group4028.png": "/meta_bnb/static/media/Group4028.735f2d85741cffe55773.png",
     "static/media/1.png": "/meta_bnb/static/media/1.38a8160690f3f6fafd46.png",
     "static/media/6.png": "/meta_bnb/static/media/6.44fca6916d0d4697677f.png",
     "static/media/3.png": "/meta_bnb/static/media/3.707d3a70e29437e2b16d.png",
+    "static/media/12.png": "/meta_bnb/static/media/12.0e96385ae823ebf35cac.png",
+    "static/media/11.png": "/meta_bnb/static/media/11.20c3d45e7fe308ff84cd.png",
     "static/media/8.png": "/meta_bnb/static/media/8.4f4ad0b7e74d98608418.png",
+    "static/media/13.png": "/meta_bnb/static/media/13.da47faf346cde7791b8a.png",
+    "static/media/16.png": "/meta_bnb/static/media/16.bf1b80f8621080866ea1.png",
     "static/media/4.png": "/meta_bnb/static/media/4.43d4cf4eb2d63ef5b60f.png",
+    "static/media/14.png": "/meta_bnb/static/media/14.18db18b1a765996af9e2.png",
+    "static/media/15.png": "/meta_bnb/static/media/15.f34dd1a02b711be1f9b4.png",
     "static/media/2.png": "/meta_bnb/static/media/2.b9539eafb1c658809d97.png",
+    "static/media/9.png": "/meta_bnb/static/media/9.fa4c0248ba5298c1b9c1.png",
     "static/media/5.png": "/meta_bnb/static/media/5.ec96f5e727686e97fb8d.png",
     "static/media/7.png": "/meta_bnb/static/media/7.8f8b11a4e2d7d5d2e43e.png",
+    "static/media/10.png": "/meta_bnb/static/media/10.a82060013a371d5630e3.png",
     "static/media/advert.png": "/meta_bnb/static/media/advert.f0b39f4d7e268cd94700.png",
     "index.html": "/meta_bnb/index.html",
     "main.92f6f788.css.map": "/meta_bnb/static/css/main.92f6f788.css.map",
-    "main.ea8c05c3.js.map": "/meta_bnb/static/js/main.ea8c05c3.js.map"
+    "main.406fe642.js.map": "/meta_bnb/static/js/main.406fe642.js.map"
   },
   "entrypoints": [
     "static/css/main.92f6f788.css",
-    "static/js/main.ea8c05c3.js"
+    "static/js/main.406fe642.js"
   ]
 }
