@@ -11,7 +11,7 @@ const Navbar2 = () => {
         <p>Carbins</p>
         <p>Off-grid</p>
         <p>Farm</p>
-        <button>Location</button>
+        <button className='border border-gray-400 px-4 py-1'>Location</button>
     </div>
   )
 }
