@@ -32,7 +32,7 @@ const Navbar = () => {
             {!nav ? <FaBars className='text-2xl text-[#a02279]' /> : <FaTimes className='text-2xl text-[#a02279]' />}
         </div>  
         {/* mobile */}
-          <ul className={!nav ? 'hidden' : 'absolute w-[180px] h-[300px] flex flex-col justify-center items-center top-20 left-80 bg-[#947db5] rounded-2xl '}>
+          <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#947db5] flex flex-col justify-center items-center'}>
             <li className='px-6 py-2 text-lg hover:text-[#a02279]'>Home</li>
             <li className='px-6 py-2 text-lg hover:text-[#a02279]'>Place to stay</li>
             <li className='px-6 py-2 text-lg hover:text-[#a02279]'>NFTs</li>
