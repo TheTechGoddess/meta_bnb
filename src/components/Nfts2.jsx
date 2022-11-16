@@ -19,7 +19,7 @@ import stars from '../assets/stars.png'
 
 const Nfts2 = () => {
   return (
-    <div className='flex flex-col justify-center items-center text-center px-4 md:px-10 lg:px-24 mb-10'>
+    <div className='flex flex-col justify-center items-center text-center px-4 md:px-10 lg:px-24 mb-20 '>
         <div className='mb-10 text-center'>
             
         </div>
