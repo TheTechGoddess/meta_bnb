@@ -21,14 +21,14 @@ const Navbar = () => {
         </div>
         {/* menu */}
         <div>
-          <ul className='hidden md:flex'>
+          <ul className='hidden lg:flex'>
           <li className='px-6 text-lg hover:text-[#a02279]'><Link to="/">Home</Link></li>
             <li className='px-6 text-lg hover:text-[#a02279]'><Link to="/places">Place to stay</Link></li>
             <li className='px-6 text-lg'>NFTs</li>
             <li className='px-6 text-lg'>Community</li>
           </ul>
         </div>
-        <div className='hidden md:flex'>
+        <div className='hidden lg:flex'>
           <button onClick={handleModal} className='px-2 py-2 bg-[#A02279] rounded-lg'>
             Connect Wallet
           </button>
@@ -62,7 +62,7 @@ const Navbar = () => {
           
         </div>
         {/* hamburger */}
-        <div onClick={handleClick} className='md:hidden z-10'>
+        <div onClick={handleClick} className='lg:hidden z-10'>
             {!nav ? <FaBars className='text-2xl text-[#a02279]' /> : <FaTimes className='text-2xl text-[#a02279]' />}
         </div>  
         {/* mobile */}

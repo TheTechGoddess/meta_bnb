@@ -23,7 +23,7 @@ const Nfts2 = () => {
         <div className='mb-10 text-center'>
             
         </div>
-        <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 text-center'>
+        <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 text-center'>
             <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft5} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
