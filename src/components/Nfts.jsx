@@ -13,7 +13,7 @@ const Nfts = () => {
   return (
     <div className='flex flex-col justify-center items-center text-center px-4 md:px-10 lg:px-24 mb-10'>
         <div className='mb-10 text-center'>
-            <h1 className='text-black text-2xl'>Inspiration for your next adventure</h1>
+            <h1 className='text-bold text-2xl'>Inspiration for your next adventure</h1>
         </div>
         <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 text-center'>
             <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>

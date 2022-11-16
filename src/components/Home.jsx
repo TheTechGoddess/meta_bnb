@@ -3,7 +3,7 @@ import group4028 from '../assets/Group4028.png'
 
 const Home = () => {
   return (
-    <div className='flex w-full justify-center md:justify-between mt-20 px-4 md:px-10 lg:px-24'>
+    <div className='flex w-full justify-center md:justify-between mt-20 px-4 md:px-10 lg:px-28'>
         <div className='md:my-5'>
             <h1 className='text-4xl lg:text-5xl font-bold py-1 md:py-2 leading-snug'>Rent a <span className='text-[#a02279]'> Place</span> far away from </h1>
             <h1 className='text-4xl lg:text-5xl font-bold py-1 md:py-2 leading-snug tracking-wide'><span className='text-[#a02279]'>Home</span>  in the <span className='text-[#a02279] '>metaverse</span> </h1>

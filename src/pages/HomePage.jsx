@@ -7,6 +7,7 @@ import Contact from "../components/Contact";
 
 
 const HomePage = () => {
+  
   return (
     <div>
         <Navbar />

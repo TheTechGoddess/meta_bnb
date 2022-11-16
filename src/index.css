@@ -6,7 +6,7 @@
 
 @layer base {
     body {
-        @apply font-[RedRose];
+        font-family: 'Red Rose', cursive;
     }
     li {
         @apply cursor-pointer;
