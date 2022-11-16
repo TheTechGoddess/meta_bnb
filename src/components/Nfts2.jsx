@@ -24,7 +24,7 @@ const Nfts2 = () => {
             
         </div>
         <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 text-center'>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft5} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -40,7 +40,7 @@ const Nfts2 = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft6} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -56,7 +56,7 @@ const Nfts2 = () => {
                
             </div>
             
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft7} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -72,7 +72,7 @@ const Nfts2 = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft8} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -88,7 +88,7 @@ const Nfts2 = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft1} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -104,7 +104,7 @@ const Nfts2 = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft2} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -120,7 +120,7 @@ const Nfts2 = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft3} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -136,7 +136,7 @@ const Nfts2 = () => {
                
             </div>
 
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft4} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -151,7 +151,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft9} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -166,7 +166,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft10} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -181,7 +181,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft11} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -196,7 +196,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft12} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -211,7 +211,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft13} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -226,7 +226,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft14} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -241,7 +241,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft15} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>
@@ -256,7 +256,7 @@ const Nfts2 = () => {
                 </div>
                
             </div>
-            <div className='border border-1 border-gray-400 w-[310px] md:w-[280px] h-[400px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
+            <div className='border border-1 border-gray-400 w-[330px] md:w-[280px] h-[420px] md:h-[340px] text-center flex flex-col content-center justify-center rounded-lg justify-self-center hover:shadow-sm hover:shadow-[#23231f] hover:scale-110 duration-500'>
                 <img src={nft16} alt="" className='w-[280px] md:w-[250px] text-center flex self-center' />
                 <div className='flex  justify-around '>
                     <div className='flex flex-col justify-start self-start '>

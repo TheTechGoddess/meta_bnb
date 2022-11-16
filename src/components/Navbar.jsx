@@ -34,7 +34,7 @@ const Navbar = () => {
           </button>
         </div>
         {/* modal */}
-        <div className={!modal ?'hidden':'absolute transform h-full -translate-x-1/2 translate-y-1/3 w-full bg-[rgba(0,0,0,0.5)] text-black left-[50%] flex justify-center'}>
+        <div className={!modal ?'hidden':'absolute transform h-full -translate-x-1/2 translate-y-1/3 w-full bg-[rgb(0,0,0,0.5)] text-black left-[50%] flex justify-center'}>
           <div className='w-[400px] h-[240px] bg-white mt-44 md:mt-56 flex flex-col self-center rounded-lg'>
           <div className='flex justify-between px-4 py-3'>
             <h1>Connect Wallet</h1>
